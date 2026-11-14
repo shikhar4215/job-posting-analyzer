@@ -1,0 +1,27 @@
+Job Title: Data Analyst I
+Company: Lumos
+Location: United States (FL, GA, NC, SC or VA)
+Salary: Not listed
+Source: https://job-boards.greenhouse.io/lumosfiber/jobs/4916602008
+
+About the role:
+Support data modeling and analysis at a fiber internet provider: mining, cleaning and visualizing data to produce reports, working with business analysts, product owners and leaders across care, marketing, product, sales, engineering and IT.
+
+Responsibilities:
+- Support data integrity and standardization
+- Build reports from one or more systems
+- Update existing reports; train users on new reports and dashboards
+- Troubleshoot the reporting database and reports
+- Evaluate changes to source production systems
+
+Requirements:
+- College degree or equivalent education and experience
+- 2-3 years with large datasets and reporting tools such as Power BI, Tableau or Einstein Analytics
+- Writing or updating SQL for data extraction and analysis
+- Practical use of probability and statistical inference
+- Proficiency in Excel, Word and PowerPoint, plus SQL and Power BI
+- Ability to learn new platforms quickly
+
+Nice to have:
+- Snowflake and dbt
+- Code repositories such as Bitbucket

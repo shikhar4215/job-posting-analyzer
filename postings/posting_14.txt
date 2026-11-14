@@ -1,0 +1,21 @@
+Job Title: Data Analyst
+Company: Merge
+Location: Not listed
+Salary: $150,000 - $170,000
+Source: https://jobs.ashbyhq.com/merge/d21d3e7c-f090-43a5-9c69-799f517185e7
+
+Responsibilities:
+- Dig into product, customer and market data to find patterns worth acting on
+- Analyze product usage data (onboarding funnels, feature adoption)
+
+Requirements:
+- Degree in data science, computer science, statistics or similar quantitative field
+- 2+ years in analytics, data science, insights or technical GTM/BizOps
+- Strong SQL; owns correctness of results whether written by hand or with an AI assistant
+- Working knowledge of dbt
+
+Nice to have:
+- B2B SaaS or developer tools experience
+- Work with product, marketing, sales or revenue operations
+- PostHog, Mixpanel or Amplitude
+- Familiarity with LLM and AI infrastructure data

@@ -1,0 +1,18 @@
+Job Title: Senior Data Analyst
+Company: Bestow
+Location: Not listed
+Salary: $115,000 - $135,000 + equity
+Source: https://jobs.ashbyhq.com/bestow/bcf5aa93-c68f-427f-acde-0d3ab54c12a8
+
+Responsibilities:
+- Use SQL, dbt, CI/CD, GitHub and Google Cloud to automate data transformation pipelines for enterprise partners
+- Use Tableau to build data products for partners
+- Build insurance-domain expertise
+- Recommend data governance best practices
+
+Requirements:
+- 5+ years
+- Strong SQL (e.g., BigQuery) on cloud data warehouses
+- Data transformation and quality engineering (dbt, Airflow); SDLC, Agile, CI/CD, GitHub
+- Data modeling and schema design
+- Writing efficient queries and reducing compute costs

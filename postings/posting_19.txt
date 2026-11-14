@@ -1,0 +1,18 @@
+Job Title: Data Analyst
+Company: Axion
+Location: Not listed (U.S. person requirement)
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/axion/e7644f30-9650-4a6f-b84c-a01d61b95cfe
+
+Responsibilities:
+- Analyze large datasets for trends and insights using Excel, Google Sheets, SQL and Python
+- Work with senior and lead analysts to interpret client data
+- Clean, validate and pre-process client datasets
+- Turn analysis into business narratives and recommendations
+- Build lightweight scripts and workflows to automate data handling
+
+Requirements:
+- Python, Excel or Google Sheets, SQL
+
+Strongly preferred:
+- Machine learning, NLP, large language models and related AI technologies

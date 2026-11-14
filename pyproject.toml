@@ -1,0 +1,24 @@
+[project]
+name = "job-analyzer"
+version = "0.1.0"
+description = "Extract structured skill data from job postings with the Gemini API and analyze it with pandas"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.0",
+    "pandas>=2.2",
+    "pydantic>=2.7",
+    "python-dotenv>=1.0",
+    "matplotlib>=3.8",
+    "ipywidgets>=8.1",
+    "streamlit>=1.45",
+    "pypdf>=5.0",
+    "python-docx>=1.1",
+    "reportlab>=4.0",
+    "gtts>=2.5",
+]
+
+[dependency-groups]
+dev = [
+    "jupyterlab>=4.2",
+    "ipykernel>=6.29",
+]

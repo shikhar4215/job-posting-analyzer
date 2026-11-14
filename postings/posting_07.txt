@@ -1,0 +1,21 @@
+Job Title: Junior Business & Data Analyst
+Company: Upgrade
+Location: United States (Remote)
+Salary: Not listed
+Source: https://job-boards.greenhouse.io/upgrade/jobs/4706312005
+
+About the role:
+Support data-driven decision making by building reports, writing SQL queries and surfacing insights for business leaders.
+
+Responsibilities:
+- Analyze data to identify trends, patterns and anomalies
+- Assist in KPI tracking, data quality checks and governance
+- Serve as the data resource for commercial and account management teams
+- Write and maintain SQL queries using joins, CTEs and window functions
+- Work within existing data models and warehouse structures
+- Document data logic and query definitions
+
+Requirements:
+- 2+ years in an analytics or data-focused role
+- SQL proficiency including joins, CTEs and window functions
+- Experience with Tableau, Microsoft Excel, Redshift and Databricks

@@ -1,0 +1,20 @@
+Job Title: Jr. Data Analyst
+Company: Data Insight Partners
+Location: Remote (Las Vegas, NV; U.S.-based)
+Salary: Not listed
+Source: https://jobs.workable.com/view/3Xyd7PN6QbevAHDAfGsQi5/remote-jr.-data-analyst-in-las-vegas-at-data-insight-partners
+
+About the role:
+Junior analyst making education data accessible for students, families and staff, with guidance and mentorship.
+
+Responsibilities:
+- Build reports and visualizations of education data
+- Develop and maintain data ingestion, cleaning and transformation processes
+- Write and troubleshoot SQL queries to prepare datasets
+
+Requirements:
+- Hand-written SQL including joins, aggregations, filtering and grouping across multiple tables (PostgreSQL, MySQL, SQL Server, Oracle)
+- Translating business rules into SQL queries and visualizations
+- Reading and adapting existing SQL
+- Analyzing large datasets for issues or trends
+- Attention to detail and data accuracy

@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+Company: LTK
+Location: US-Remote
+Salary: Not listed
+Source: https://job-boards.greenhouse.io/shopltk/jobs/7671051003
+
+About the role:
+Support senior analysts and business leaders in Product, Finance and Operations with SQL analyses, dashboards and insights on revenue growth, retention and the creator/brand/shopper experience in a three-sided marketplace.
+
+Responsibilities:
+- Support analytics for specific product or business areas tied to revenue, retention, monetization and cost efficiency
+- Help frame questions, define success metrics and turn business problems into analytical plans
+- Produce recurring performance reports and ad hoc deep dives with recommendations
+- Write SQL to pull, transform and validate warehouse data
+- Build and maintain dashboards in Looker, Hex or Wisdom
+- Help define and document core metrics; analyze experiments and A/B tests
+- Automate repetitive reporting; follow analytics QA and dashboard best practices
+- Use AI-assisted tools for analysis and summarization, validating outputs
+
+Requirements:
+- 2-4+ years in analytics, BI, data science or a similar quantitative role
+- Strong SQL skills with large, complex datasets
+- Experience with BI tools such as Looker, Hex, Wisdom or Tableau
+- Strong Excel or Google Sheets skills
+- Understanding of funnels, conversion and unit economics
+- Clear written and verbal communication
+- Bachelor's degree with a quantitative foundation (economics, statistics, engineering, math or computer science)
+
+Nice to have:
+- Python, R or similar tools for analysis or automation

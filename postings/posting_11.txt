@@ -1,0 +1,16 @@
+Job Title: Staff Data Analyst
+Company: Facet
+Location: United States (Remote)
+Salary: Not listed
+Source: https://apply.workable.com/facetwealth/j/E5363F8BC0
+
+Responsibilities:
+- Integrate AI assistants and automation into analytics workflows (code generation, SQL optimization, data exploration)
+- Gather, clean and model data using Python, SQL and dbt
+- Peer-review SQL queries, Python scripts and analytical methods
+
+Requirements:
+- Outstanding stakeholder management with cross-functional leaders
+- Python for data manipulation (Pandas, NumPy), visualization and lightweight apps (Streamlit)
+- SQL and dbt for data modeling; cloud data warehouses such as BigQuery or Snowflake
+- Expert-level Jupyter Notebooks for exploratory analysis and statistical validation

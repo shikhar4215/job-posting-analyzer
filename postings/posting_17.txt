@@ -1,0 +1,17 @@
+Job Title: Data Analyst III (Senior Data Analyst)
+Company: Coastal Community Bank
+Location: Not listed
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/coastal/15c8c2ed-1fdc-4a37-ba40-6b96fc660dfd
+
+Responsibilities:
+- Lead complex analyses using SQL and advanced analytical techniques
+- Build executive-facing dashboards
+- Understand upstream data models and transformations
+- Work with Analytics Engineering on data models, metrics and semantic layers
+
+Requirements:
+- 5-7+ years in analytics, data analysis or decision science
+- Advanced SQL and analytical tooling
+- Data modeling and transformation concepts (dbt preferred)
+- Bachelor's in Analytics, Data Science, Statistics, Economics, Computer Science or related; Master's a plus

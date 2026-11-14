@@ -1,0 +1,18 @@
+Job Title: Data Analyst - MARVEL Strike Force
+Company: Scopely
+Location: United States or Canada (Remote)
+Salary: $91,300 - $140,000 (CA, CO, NJ, NY, WA)
+Source: https://job-boards.greenhouse.io/scopely/jobs/5301857008
+
+About the role:
+Data analyst for a mobile game team, partnering with product, design, economy, live operations, marketing and leadership to improve player engagement, retention and monetization.
+
+Responsibilities:
+- Use AI-enabled tools to accelerate data exploration, SQL/Python development, documentation, QA and insight generation
+- Turn data into insights that improve engagement, retention, monetization and long-term game health
+
+Requirements:
+- BS in Computer Science, Statistics, Math, Physics or other quantitative discipline
+- 2+ years in data analytics, product analytics, business analytics or a similar quantitative role
+- 2+ years using SQL/Python, including complex queries across multiple sources
+- 2+ years creating reports in Tableau/Looker or similar

@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+Company: eSkill
+Location: San Antonio, TX (on-site)
+Salary: $70,000 - $83,000
+Source: https://apply.workable.com/eskill-1/jobs/view/E144C5F94B.md
+
+About the role:
+Join the Go-to-Market Operations team, turning complex data into insights and partnering with Product, Sales, Success and Marketing at a pre-employment assessment software company.
+
+Responsibilities:
+- Build and maintain Tableau (or similar) dashboards and reports
+- Own and prioritize the intake queue of business data requests
+- Keep data accurate and consistent across BI reporting and source systems
+- Analyze large Snowflake datasets to find trends
+- Act as the main contact between RevOps and engineering for Snowflake data needs
+
+Requirements:
+- 2+ years building dashboards and reports with complex SQL
+- Hands-on Tableau or similar BI tool (calculated fields, executive reporting, data modeling)
+- Strong SQL skills
+- Familiarity with AI tools such as Claude or ChatGPT
+- Experience managing a request queue and maintaining data quality
+- Translating business requests into data requirements
+- U.S. work eligibility; no visa sponsorship
+
+Preferred:
+- Early-stage or high-growth company experience
+- Snowflake
+- HubSpot, Salesforce, Google Analytics, Microsoft Clarity
+- SaaS or RevOps analytics

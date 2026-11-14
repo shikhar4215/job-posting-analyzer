@@ -1,0 +1,13 @@
+Job Title: Data Analyst (GTM)
+Company: Meter
+Location: Not listed
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e
+
+Requirements:
+- Experience as the analytical partner inside a go-to-market function (pipeline reviews, attribution, executive dashboards)
+- Advanced SQL: window functions, CTEs, set operations; debugging others' long queries
+- dbt: staging vs. marts, incremental models, snapshots; schema design
+- Experience across Salesforce, billing systems, marketing platforms and product data
+- Structuring questions like marketing ROI into defensible analyses
+- Snowflake, BigQuery, Tableau or other modern data stacks

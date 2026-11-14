@@ -1,0 +1,14 @@
+Job Title: Data Analyst (Contract)
+Company: Splash Financial
+Location: Remote - United States
+Salary: $50 - $60/hour (1099 contract, 6 months)
+Source: https://job-boards.greenhouse.io/splashfinancial/jobs/4647688006
+
+Requirements:
+- 3-5 years in a Data Analyst or Analytics role; fintech, lending or financial services a strong plus
+- Advanced SQL, including complex queries for data validation, debugging and root-cause analysis
+- Hands-on Snowflake and dbt: building data models, transforming raw data, implementing data tests
+- Structuring ambiguous datasets into clean data models and reporting
+- Translating between technical and business stakeholders; shared metric definitions and documentation
+- Dashboards and reports in Looker, Tableau, Mode or similar
+- Data hygiene and governance: documentation, QA/UAT, data integrity

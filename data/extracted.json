@@ -1,0 +1,20 @@
+[
+  {
+    "job_title": "Data Analytics Intern",
+    "company": "Citizens Energy Group",
+    "seniority": "intern",
+    "work_mode": "hybrid",
+    "min_years_experience": null,
+    "required_skills": [
+      "Excel"
+    ],
+    "nice_to_have_skills": [
+      "Power BI",
+      "SQL"
+    ],
+    "salary_min": null,
+    "salary_max": null,
+    "pay_period": "unspecified",
+    "file": "posting_21.txt"
+  }
+]

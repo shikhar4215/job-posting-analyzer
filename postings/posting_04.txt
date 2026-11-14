@@ -1,0 +1,35 @@
+Job Title: Senior Data Analyst, Customer Success
+Company: 9amHealth
+Location: Not specified (offices in San Diego and Vienna; distributed team)
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/join9am/32680534-8eca-451a-a398-8a2f2eab851d
+
+About the role:
+Analytics partner to the Customer Success team, producing reporting for employer and health plan clients, including quarterly business reviews and ad hoc analyses.
+
+Responsibilities:
+- Build and improve client-facing dashboards and reports
+- Translate client questions into analytical frameworks
+- Serve as the team's Looker expert (LookML models, explores, dashboards)
+- Write complex SQL across Redshift, Aurora/MySQL and Athena
+- Develop Python scripts and notebooks for wrangling and automated reporting
+- Use AI tools daily; identify AI opportunities such as anomaly detection and AI-assisted narratives
+- Define and monitor data quality metrics
+- Document reporting logic; shape BI governance and LookML version control
+
+Requirements:
+- 5+ years in a data analyst, analytics engineer or BI role
+- Deep Looker and LookML experience
+- Expert-level SQL (window functions, CTEs, performance tuning)
+- Strong Python for analysis and automation
+- Proficiency with AI-assisted development and analytics tools
+- Experience delivering QBRs or executive dashboards
+- Cloud data warehouses (Redshift preferred) and data lake concepts (S3, Parquet)
+
+Nice to have:
+- Healthcare data (claims, clinical, eligibility, pharmacy, outcomes)
+- AWS data services (Glue, Athena, S3, CloudWatch)
+- Mixpanel or Amplitude
+- dbt
+- Git
+- Startup experience

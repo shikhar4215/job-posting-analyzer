@@ -1,0 +1,25 @@
+Job Title: Data Analyst
+Company: Inspire11
+Location: Multiple locations (onsite at office or client sites as needed)
+Salary: $64,000 - $120,000 (Associate to Managing Consultant)
+Source: https://job-boards.greenhouse.io/inspire11/jobs/7658481002
+
+About the role:
+Consulting analyst who bridges data and decision-making for clients, uncovering insights and designing data products.
+
+Responsibilities:
+- Gather client needs through stakeholder interviews, process mapping and exploratory analysis
+- Assess raw data for trends, quality, performance metrics and business-logic accuracy
+- Build dashboards and reports in Power BI or Tableau
+- Work with cloud data platforms such as Fabric, Snowflake, Databricks, Redshift or Synapse
+- Facilitate Agile ceremonies and co-creation workshops
+- Explore AI and GenAI applications for automating insights and reporting
+
+Requirements:
+- 2+ years of consulting experience in data analysis, BI or analytics strategy
+- Strong SQL skills for large datasets
+- Hands-on experience with Power BI or Tableau
+- Exposure to modern cloud data platforms
+- Familiarity with AI/ML concepts and GenAI tools (e.g., ChatGPT, Copilot)
+- Strong communication, including presenting to external stakeholders
+- Comfort with agile, cross-functional teams

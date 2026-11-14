@@ -1,0 +1,20 @@
+Job Title: Data Analyst
+Company: Clarium
+Location: Not listed
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/clarium/c55300dd-706e-40e5-a0f6-d5f76927226c
+
+Responsibilities:
+- Write and optimize SQL across large relational datasets
+- Use Python to clean, transform and analyze data
+- Explore datasets independently to surface trends and anomalies
+- Build and maintain dashboards and recurring reports
+- Scope ambiguous questions with product and customer success teams
+- Investigate data quality issues with engineering
+- Document data definitions, metrics and methodology
+
+Requirements:
+- 3+ years in an analytics, data or BI role
+- Strong SQL: joins, window functions, CTEs, query optimization
+- Strong Python for data analysis (pandas, NumPy, Jupyter)
+- Explaining results to non-technical stakeholders

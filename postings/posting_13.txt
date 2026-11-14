@@ -1,0 +1,24 @@
+Job Title: Data Analyst
+Company: CelebriOS (via Careerswift)
+Location: Remote
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/careerswift.ai/004b958c-2910-4e53-9d53-2217f6e44b8d
+
+Responsibilities:
+- Gather and analyze data from multiple sources
+- Write SQL queries and validate results
+- Build dashboards and recurring reports
+- Define and document business metrics
+- Investigate trends, anomalies and performance changes
+- Present findings to technical and non-technical stakeholders
+- Support experiments, forecasting or operational planning
+
+Requirements:
+- 2+ years in data analysis, business intelligence or a related field
+- Strong SQL and spreadsheet skills
+- Tableau, Power BI, Looker or similar
+- Descriptive statistics and data visualization
+- Explaining complex findings clearly
+
+Nice to have:
+- Data warehouses and analytics engineering

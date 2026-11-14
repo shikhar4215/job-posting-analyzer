@@ -1,0 +1,19 @@
+Job Title: Data Analyst, Product
+Company: GitLab
+Location: United States (Remote)
+Salary: Not listed
+Source: https://job-boards.greenhouse.io/gitlab/jobs/8455464002
+
+About the role:
+Product data analyst working with Engineering on instrumentation and with Analytics Engineers on data models.
+
+Responsibilities:
+- Work with Engineering on data collection and instrumentation so product usage is measured accurately
+- Collaborate with Analytics Engineers on data modeling for reporting and analysis
+
+Requirements:
+- Advanced SQL skills to answer complex product questions
+- Building BI visualizations and dashboards, ideally in Tableau
+- Working with Product and Engineering on data creation, instrumentation and measurement
+- Partnering with Data and Analytics Engineering on data models
+- Strong analytical thinking and stakeholder communication

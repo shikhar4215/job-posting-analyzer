@@ -1,0 +1,27 @@
+Job Title: Senior Data Analyst
+Company: Ruby Labs
+Location: Remote
+Salary: Not listed
+Source: https://jobs.ashbyhq.com/ruby-labs/02eda1b4-c84a-4ee8-8a3d-0fdcc93cf0a9
+
+About the role:
+Senior analyst on a new job application platform product, guiding product decisions and the roadmap.
+
+Responsibilities:
+- Partner with Product Owners and data teams across marketing, billing and product
+- Analyze data for insights, trends and KPI recommendations
+- Monitor metrics across domains
+- Design and build data models in SQL
+
+Requirements:
+- Degree in Math, Data Science, Economics or another analytical field
+- 3+ years as a Data Analyst
+- Advanced SQL
+- Product analytics experience
+- Subscription business experience
+- Excellent verbal communication
+
+Nice to have:
+- Marketing analytics
+- Python, R
+- GCP, BigQuery

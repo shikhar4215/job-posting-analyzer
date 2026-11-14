@@ -1,0 +1,32 @@
+Job Title: Senior Data Analyst, Merchant Solutions
+Company: Aperia Solutions
+Location: Alpharetta, GA (on-site)
+Salary: Not listed
+Source: https://job-boards.greenhouse.io/aperiasolutions/jobs/5040038007
+
+About the role:
+Own the data, reporting, segmentation and statistical measurement behind SMB retention and engagement campaigns, supporting Product, Customer Support/Ops, Sales and Data Science.
+
+Responsibilities:
+- Own and maintain datasets for SMB retention and engagement initiatives
+- Build data models for merchant cohorts, lifecycle stages, churn indicators and offer eligibility
+- Create dashboards and weekly/monthly reporting for leadership and operations
+- Define segmentation, eligibility and prioritization rules for campaigns
+- Design test vs. control frameworks for campaigns
+- Apply hypothesis testing, regression, uplift modeling and time-series analysis to measure impact
+- Run deep dives on churn drivers, behavior, channel performance and campaign effectiveness
+
+Requirements:
+- Bachelor's degree in business, finance, analytics, engineering or related field, or equivalent experience
+- 3+ years in data analytics, business intelligence or statistical analysis
+- Strong SQL skills with large, complex, siloed datasets
+- Proficiency with BI tools such as Looker, Tableau or Power BI
+- Statistics: experimental design, A/B testing, hypothesis testing, regression, causal inference, confidence intervals
+- Excellent communication and presentation skills
+
+Preferred:
+- Master's degree in data science, statistics, analytics, economics or related field
+- Fintech, payments, SaaS or lifecycle/CRM experience
+- Predictive modeling (churn, propensity, uplift)
+- scikit-learn, statsmodels or R
+- Marketing automation or CRM tools
